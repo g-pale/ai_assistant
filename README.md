@@ -3,6 +3,8 @@
 Ссылка на проект - @oknanarodu_bot
 
 Скрин savvi: https://github.com/g-pale/ai_assistant/blob/main/Снимок%20экрана%202025-04-13%20в%2018.12.11.png?raw=true
+Скрин telega: https://github.com/g-pale/ai_assistant/blob/main/Снимок%20экрана%202025-04-13%20в%2018.12.42.png?raw=true
+Скрин google календарь: https://github.com/g-pale/ai_assistant/blob/main/Снимок%20экрана%202025-04-13%20в%2020.57.16.png?raw=true
 
 ## Описание проекта
 
